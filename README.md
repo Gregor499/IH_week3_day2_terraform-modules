@@ -1,0 +1,1 @@
+Modul-setup which deploys a PayrollAppServer in Regions London and Oregon
